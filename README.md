@@ -1,4 +1,2 @@
-chrome-nick-marsh
-===========
+[Nick Marsh](https://chrome.google.com/webstore/detail/nick-marsh/acbenidajeemnnpfecajcn)
 
-Nick Marsh
