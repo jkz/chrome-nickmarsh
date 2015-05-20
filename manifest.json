@@ -1,0 +1,16 @@
+{
+  "name": "Nick Marsh",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Nick Marsh",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": [
+        "content/jquery.js",
+        "content/jquery.replacetext.js",
+        "content/nickmarsh.js"
+      ]
+    }
+  ]
+}
